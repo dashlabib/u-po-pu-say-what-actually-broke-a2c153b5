@@ -1,0 +1,1 @@
+Error: the database fell asleep mid-sentence and forgot your order — it never saved, so please place it again (and blame the server, not yourself).
